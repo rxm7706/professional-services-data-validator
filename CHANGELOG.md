@@ -2,6 +2,14 @@
 
 ## Untagged
 
+### [1.7.2](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.7.1...v1.7.2) (2022-04-23)
+
+
+### Bug Fixes
+
+* add get_ibis_table_schema ([#410](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/410)) ([#411](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/411)) ([4093625](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/409362510d7e405016e87e253e4127a04089fabd))
+* only replaces datatypes and not column names ([#453](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/453)) ([6143794](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/6143794e90e048243f88ee811c6de5cf84a70184))
+
 ### [1.7.1](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.7.0...v1.7.1) (2022-04-14)
 
 
